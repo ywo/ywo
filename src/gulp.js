@@ -35,5 +35,5 @@ function getConfig(staticPath, searchFiles) {
 }
 
 exports.gulp = {
-    getConfig : getConfig,
+    getConfig : getConfig
 }
