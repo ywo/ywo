@@ -1,5 +1,5 @@
 var JS_BASEPATH = '';
-var io = require('./io'),
+var io = require('./io').io,
     _ = require('lodash'),
     path = require('path');
 
