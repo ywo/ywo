@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/ywo/ywo",
   "gitHead": "567785816e65144d0de0657f40e16137f2856dcc",
-  "_id": "ywo@1.0.12",
-  "_shasum": "dc003b1d3d9b8f89e58b377343e519fb9af2d316",
-  "_from": "ywo@*",
+  "_id": "ywo@1.0.13",
+  "_shasum": "09ca02823c909e86947299bc8f7bdd6c22ea6260",
+  "_from": "ywo@1.0.13",
   "_npmVersion": "2.7.1",
   "_nodeVersion": "1.6.2",
   "_npmUser": {
@@ -47,5 +47,18 @@
   "directories": {},
   "_resolved": "http://registry.npm.taobao.org/ywo/download/ywo-1.0.12.tgz",
   "publish_time": 1431924521639,
-  "_cnpm_publish_time": 1431924521639
+  "_cnpm_publish_time": 1431924521639,
+  "readme": "#\n```\n$ npm install ywo --save-dev\n```\n## ywo.io\n",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "browserify": "^10.2.0",
+    "del": "^1.1.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.0.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "node-notifier": "^4.2.1",
+    "tsify": "^0.10.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
 }
