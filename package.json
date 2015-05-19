@@ -1,6 +1,6 @@
 {
   "name": "ywo",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "ywo's util",
   "main": "src/ywo.js",
   "scripts": {
